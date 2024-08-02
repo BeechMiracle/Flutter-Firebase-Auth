@@ -43,40 +43,4 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD7kwqTdSEAeZJf8_0dq4JKS4O4Ght8wc8',
-    appId: '1:689774487685:web:f8f141224f810f75ba21ec',
-    messagingSenderId: '689774487685',
-    projectId: 'flutterfire-ui-c7cde',
-    authDomain: 'flutterfire-ui-c7cde.firebaseapp.com',
-    storageBucket: 'flutterfire-ui-c7cde.appspot.com',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDsVG1vw7DbMauin6joItjf0OKRuuE2G3k',
-    appId: '1:689774487685:android:d28d436ea8c7b139ba21ec',
-    messagingSenderId: '689774487685',
-    projectId: 'flutterfire-ui-c7cde',
-    storageBucket: 'flutterfire-ui-c7cde.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAx9Z7EChCB4GZ_8bQVaC4RsYzDtJ18W0k',
-    appId: '1:689774487685:ios:758d6cd133e8c9d1ba21ec',
-    messagingSenderId: '689774487685',
-    projectId: 'flutterfire-ui-c7cde',
-    storageBucket: 'flutterfire-ui-c7cde.appspot.com',
-    iosClientId: '689774487685-tqnamalo14f01ktnufqaspirnmkri2c3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterAuthApp',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAx9Z7EChCB4GZ_8bQVaC4RsYzDtJ18W0k',
-    appId: '1:689774487685:ios:fbeb529521781822ba21ec',
-    messagingSenderId: '689774487685',
-    projectId: 'flutterfire-ui-c7cde',
-    storageBucket: 'flutterfire-ui-c7cde.appspot.com',
-    iosClientId: '689774487685-o84oqpaurk8me9j3tl49pcvqq54vpddp.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterAuthApp.RunnerTests',
-  );
-}
+ 
